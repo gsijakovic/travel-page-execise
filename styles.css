@@ -50,7 +50,7 @@
   text-align: center;
   font-size: 40px;
   color: rgb(59, 65, 64);
-  <margin: 24px 0;
+  margin: 24px 0;
 }
 #destinations {
   display: flex;
@@ -77,4 +77,4 @@ margin: 20px 0;
   object-fit: cover;
 }
 .destination strong {
-  color: rgb(0, 160, 117);
+  color: rgb(0, 160, 117);}
